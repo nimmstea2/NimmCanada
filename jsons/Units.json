@@ -10,6 +10,7 @@
 		"upgradesTo": "Cavalry",
 		"uniqueTo": "The Crownlands",
 		"requiredResource": "Horses",
+		"replaces": "Knight",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "[+30]% Strength <vs [Mounted] units>","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	}
